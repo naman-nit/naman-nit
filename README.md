@@ -2,7 +2,7 @@
 - 👀 I’m interested in web dev
 - 🌱 I’m currently learning css and js
 - 💞️ I’m looking to collaborate on working websites
-- 📫 reach me @instagram _naman_2275
+- 📫 reach me @gmail naman2275
 
 <!---
 naman-nit/naman-nit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
